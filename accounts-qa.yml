@@ -4,7 +4,7 @@ build:
 accounts:
   message: "Welcome to EazyBank accounts related QA APIs "
   contactDetails:
-    name: "Mrunal Tarnekar - QA Lead"
+    name: "Mrunal Tarnekar - Leas QA Engg"
     email: "mtarnekar@gmail.com"
   onCallSupport:
     - (666) 265-3765

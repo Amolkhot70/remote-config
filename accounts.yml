@@ -4,7 +4,7 @@ build:
 accounts:
   message: "Welcome to EazyBank accounts related docker APIs "
   contactDetails:
-    name: "Ashish Parit - Developer"
+    name: "Ashish Parit - Senior Developer"
     email: "aparit@gmail.com"
   onCallSupport:
     - (555) 555-1234
